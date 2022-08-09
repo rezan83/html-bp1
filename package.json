@@ -1,0 +1,21 @@
+{
+  "name": "uib-boilerplate-html-doc",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalCareerInstitute/UIB-boilerplate-HTML_doc",
+    "id": 214106807
+  }
+}
